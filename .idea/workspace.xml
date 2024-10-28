@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders3StaticKeyword/HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders3StaticKeyword/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders3StaticKeyword/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gun1/Ders1Packages/HesapMakinesi/DortIslem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun1/Ders1Packages/HesapMakinesi/DortIslem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gun1/Ders1Packages/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun1/Ders1Packages/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gun1/Ders2AccessModifiers/Paket1/Sinif1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun1/Ders2AccessModifiers/Paket1/Sinif1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gun1/Ders2AccessModifiers/Paket1/Sinif2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun1/Ders2AccessModifiers/Paket1/Sinif2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gun1/Ders2AccessModifiers/Paket2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun1/Ders2AccessModifiers/Paket2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2o251DZiIV0Zz7HAaXTjTu3bxWn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,6 +38,7 @@
   "keyToString": {
     "Application.Gun1.Ders1Packages.Main.Main.executor": "Run",
     "Application.Gun1.Ders2AccessModifiers.Paket2.Main.executor": "Debug",
+    "Application.Gun1.Ders3StaticKeyword.Main.executor": "Debug",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -48,7 +47,7 @@
     "onboarding.tips.debug.path": "C:/javademos/java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Gun1.Ders2AccessModifiers.Paket2.Main">
+  <component name="RunManager" selected="Application.Gun1.Ders3StaticKeyword.Main">
     <configuration name="Gun1.Ders1Packages.Main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gun1.Ders1Packages.Main.Main" />
       <module name="java102" />
@@ -75,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Gun1.Ders3StaticKeyword.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun1.Ders3StaticKeyword.Main" />
+      <module name="java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun1.Ders3StaticKeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="java102" />
@@ -84,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gun1.Ders3StaticKeyword.Main" />
         <item itemvalue="Application.Gun1.Ders2AccessModifiers.Paket2.Main" />
         <item itemvalue="Application.Gun1.Ders1Packages.Main.Main" />
         <item itemvalue="Application.Main" />

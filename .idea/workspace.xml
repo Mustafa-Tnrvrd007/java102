@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders4StaticBlocks/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders4StaticBlocks/StaticDeneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders5FinalKeyWord/Cember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders5FinalKeyWord/Cisim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders5FinalKeyWord/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun1/Ders5FinalKeyWord/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders1Encapsulation/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders1Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders2Inheritance/Ders/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders2Inheritance/Ders/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders2Inheritance/Ders/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun1/Ders5FinalKeyWord/Cember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun1/Ders5FinalKeyWord/Cember.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,9 @@
     "Application.Gun1.Ders1Packages.Main.Main.executor": "Run",
     "Application.Gun1.Ders2AccessModifiers.Paket2.Main.executor": "Debug",
     "Application.Gun1.Ders3StaticKeyword.Main.executor": "Debug",
-    "Application.Main.executor": "Run",
+    "Application.Gun1.Ders5FinalKeyWord.Main.executor": "Debug",
+    "Application.Gun2.Ders2Inheritance.Ders.Main.executor": "Debug",
+    "Application.Main.executor": "Debug",
     "Application.StaticDeneme.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -51,33 +53,7 @@
     "onboarding.tips.debug.path": "C:/javademos/java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Gun1.Ders5FinalKeyWord.Main">
-    <configuration name="Gun1.Ders1Packages.Main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun1.Ders1Packages.Main.Main" />
-      <module name="java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gun1.Ders1Packages.Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Gun1.Ders2AccessModifiers.Paket2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun1.Ders2AccessModifiers.Paket2.Main" />
-      <module name="java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gun1.Ders2AccessModifiers.Paket2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Gun2.Ders2Inheritance.Ders.Main">
     <configuration name="Gun1.Ders3StaticKeyword.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gun1.Ders3StaticKeyword.Main" />
       <module name="java102" />
@@ -104,6 +80,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Gun2.Ders2Inheritance.Ders.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun2.Ders2Inheritance.Ders.Main" />
+      <module name="java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun2.Ders2Inheritance.Ders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun2.Ders1Encapsulation.Main" />
+      <module name="java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun2.Ders1Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaticDeneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gun1.Ders4StaticBlocks.StaticDeneme" />
       <module name="java102" />
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gun2.Ders2Inheritance.Ders.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Gun1.Ders5FinalKeyWord.Main" />
         <item itemvalue="Application.StaticDeneme" />
         <item itemvalue="Application.Gun1.Ders3StaticKeyword.Main" />
-        <item itemvalue="Application.Gun1.Ders2AccessModifiers.Paket2.Main" />
-        <item itemvalue="Application.Gun1.Ders1Packages.Main.Main" />
       </list>
     </recent_temporary>
   </component>

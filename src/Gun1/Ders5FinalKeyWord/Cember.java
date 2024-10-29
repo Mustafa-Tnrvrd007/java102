@@ -4,5 +4,5 @@ public class Cember {
 
     public final double cevre(double pi , double r){
         return 2*pi*r;
-    }
+    }  // final ile tanımlanmış metodlar override edilemez
 }

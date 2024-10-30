@@ -1,4 +1,4 @@
-package Gun2.Ders2Inheritance.Ders;
+package Gun2.Ders2Inheritance;
 
 public class Manager extends Employee{
     // Manager sınıfı Employee sınıfından kalıtım (miras) alıyor.

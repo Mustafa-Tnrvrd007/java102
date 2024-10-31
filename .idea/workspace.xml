@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders5Interface/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders5Interface/IDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders5Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders5Interface/MongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders5Interface/MySqlDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders5Interface/Oracle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Gorevli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/IProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Kitap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Ogrenci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -38,26 +38,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Gun1.Ders1Packages.Main.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gun1.Ders2AccessModifiers.Paket2.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Gun1.Ders3StaticKeyword.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Gun1.Ders5FinalKeyWord.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Gun2.Ders2Inheritance.Ders.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Gun2.Ders4Abstract.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Gun2.Ders5Interface.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Overloading.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.StaticDeneme.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/javademos/java102/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Gun1.Ders1Packages.Main.Main.executor": "Run",
+    "Application.Gun1.Ders2AccessModifiers.Paket2.Main.executor": "Debug",
+    "Application.Gun1.Ders3StaticKeyword.Main.executor": "Debug",
+    "Application.Gun1.Ders5FinalKeyWord.Main.executor": "Debug",
+    "Application.Gun2.Ders2Inheritance.Ders.Main.executor": "Debug",
+    "Application.Gun2.Ders4Abstract.Main.executor": "Debug",
+    "Application.Gun2.Ders5Interface.Main.executor": "Debug",
+    "Application.Gun2.Ders6Practise.Main.executor": "Debug",
+    "Application.Main.executor": "Debug",
+    "Application.Overloading.executor": "Debug",
+    "Application.StaticDeneme.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/javademos/java102/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Gun2.Ders5Interface.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.Gun2.Ders6Practise.Main">
     <configuration name="Gun2.Ders2Inheritance.Ders.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gun2.Ders2Inheritance.Ders.Main" />
       <module name="java102" />
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun2.Ders1Encapsulation.Main" />
+    <configuration name="Gun2.Ders6Practise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun2.Ders6Practise.Main" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun2.Ders1Encapsulation.*" />
+          <option name="PATTERN" value="Gun2.Ders6Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gun2.Ders6Practise.Main" />
         <item itemvalue="Application.Gun2.Ders5Interface.Main" />
         <item itemvalue="Application.Gun2.Ders4Abstract.Main" />
         <item itemvalue="Application.Overloading" />
         <item itemvalue="Application.Gun2.Ders2Inheritance.Ders.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

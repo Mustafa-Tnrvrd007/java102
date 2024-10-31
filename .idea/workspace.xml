@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Gorevli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/IProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Kitap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun2/Ders6Practise/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/AnonymusClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/LocalClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/LocalClass/SayiSiniflandirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/NonStaticInnerClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/NonStaticInnerClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/StaticInnerClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/StaticInnerClass/OuterClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,6 +49,9 @@
     "Application.Gun2.Ders4Abstract.Main.executor": "Debug",
     "Application.Gun2.Ders5Interface.Main.executor": "Debug",
     "Application.Gun2.Ders6Practise.Main.executor": "Debug",
+    "Application.Gun3.Ders1NestedClasses.Chapter2.Main.executor": "Run",
+    "Application.Gun3.Ders1NestedClasses.Chapter3.Main.executor": "Debug",
+    "Application.Gun3.Ders1NestedClasses.Chapter4.Main.executor": "Debug",
     "Application.Main.executor": "Debug",
     "Application.Overloading.executor": "Debug",
     "Application.StaticDeneme.executor": "Debug",
@@ -58,46 +62,7 @@
     "onboarding.tips.debug.path": "C:/javademos/java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Gun2.Ders6Practise.Main">
-    <configuration name="Gun2.Ders2Inheritance.Ders.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun2.Ders2Inheritance.Ders.Main" />
-      <module name="java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gun2.Ders2Inheritance.Ders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Gun2.Ders4Abstract.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun2.Ders4Abstract.Main" />
-      <module name="java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gun2.Ders4Abstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Gun2.Ders5Interface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun2.Ders5Interface.Main" />
-      <module name="java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gun2.Ders5Interface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Gun3.Ders1NestedClasses.AnonymusClass.Main">
     <configuration name="Gun2.Ders6Practise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gun2.Ders6Practise.Main" />
       <module name="java102" />
@@ -111,12 +76,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun2.Ders3Polymorphism.Overloading" />
+    <configuration name="Gun3.Ders1NestedClasses.AnonymusClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun3.Ders1NestedClasses.AnonymusClass.Main" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun2.Ders3Polymorphism.*" />
+          <option name="PATTERN" value="Gun3.Ders1NestedClasses.AnonymusClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gun3.Ders1NestedClasses.LocalClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun3.Ders1NestedClasses.LocalClass.Main" />
+      <module name="java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun3.Ders1NestedClasses.LocalClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gun3.Ders1NestedClasses.StaticInnerClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun3.Ders1NestedClasses.StaticInnerClass.Main" />
+      <module name="java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun3.Ders1NestedClasses.StaticInnerClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun3.Ders1NestedClasses.NonStaticInnerClass.Main" />
+      <module name="java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun3.Ders1NestedClasses.NonStaticInnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gun3.Ders1NestedClasses.AnonymusClass.Main" />
+        <item itemvalue="Application.Gun3.Ders1NestedClasses.LocalClass.Main" />
+        <item itemvalue="Application.Gun3.Ders1NestedClasses.StaticInnerClass.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Gun2.Ders6Practise.Main" />
-        <item itemvalue="Application.Gun2.Ders5Interface.Main" />
-        <item itemvalue="Application.Gun2.Ders4Abstract.Main" />
-        <item itemvalue="Application.Overloading" />
-        <item itemvalue="Application.Gun2.Ders2Inheritance.Ders.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/AnonymusClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/LocalClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/LocalClass/SayiSiniflandirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/NonStaticInnerClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/NonStaticInnerClass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/StaticInnerClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders1NestedClasses/StaticInnerClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders2WrapperClasses/BoxingAndUnBoxinx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders2WrapperClasses/WrapperClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BoxingAndUnBoxinx.executor": "Debug",
     "Application.Gun1.Ders1Packages.Main.Main.executor": "Run",
     "Application.Gun1.Ders2AccessModifiers.Paket2.Main.executor": "Debug",
     "Application.Gun1.Ders3StaticKeyword.Main.executor": "Debug",
@@ -55,6 +51,7 @@
     "Application.Main.executor": "Debug",
     "Application.Overloading.executor": "Debug",
     "Application.StaticDeneme.executor": "Debug",
+    "Application.WrapperClasses.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -62,13 +59,13 @@
     "onboarding.tips.debug.path": "C:/javademos/java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Gun3.Ders1NestedClasses.AnonymusClass.Main">
-    <configuration name="Gun2.Ders6Practise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun2.Ders6Practise.Main" />
+  <component name="RunManager" selected="Application.BoxingAndUnBoxinx">
+    <configuration name="BoxingAndUnBoxinx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun3.Ders2WrapperClasses.BoxingAndUnBoxinx" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun2.Ders6Practise.*" />
+          <option name="PATTERN" value="Gun3.Ders2WrapperClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun3.Ders1NestedClasses.NonStaticInnerClass.Main" />
+    <configuration name="WrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun3.Ders2WrapperClasses.WrapperClasses" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun3.Ders1NestedClasses.NonStaticInnerClass.*" />
+          <option name="PATTERN" value="Gun3.Ders2WrapperClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BoxingAndUnBoxinx" />
+        <item itemvalue="Application.WrapperClasses" />
         <item itemvalue="Application.Gun3.Ders1NestedClasses.AnonymusClass.Main" />
         <item itemvalue="Application.Gun3.Ders1NestedClasses.LocalClass.Main" />
         <item itemvalue="Application.Gun3.Ders1NestedClasses.StaticInnerClass.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Gun2.Ders6Practise.Main" />
       </list>
     </recent_temporary>
   </component>

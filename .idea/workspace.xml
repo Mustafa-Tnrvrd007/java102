@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders4GenericMetods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders4GenericMetods/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders5GenericInterface/IDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders5GenericInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders5GenericInterface/MySql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders5GenericInterface/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders6GenericBoundedTypes/HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun3/Ders6GenericBoundedTypes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders1TryCatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders2Throw/CheckPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders2Throw/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders3/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders3/BalanceInsufficentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders3/NegativeValueException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,7 @@
     "Application.Gun3.Ders4GenericMetods.Main.executor": "Debug",
     "Application.Gun3.Ders5GenericInterface.Main.executor": "Debug",
     "Application.Gun3.Ders6GenericBoundedTypes.Main.executor": "Debug",
+    "Application.Gun4.Ders3.Main.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.Overloading.executor": "Debug",
     "Application.StaticDeneme.executor": "Debug",
@@ -68,20 +68,7 @@
     "onboarding.tips.debug.path": "C:/javademos/java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Gun3.Ders6GenericBoundedTypes.Main">
-    <configuration name="BoxingAndUnBoxinx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun3.Ders2WrapperClasses.BoxingAndUnBoxinx" />
-      <module name="java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gun3.Ders2WrapperClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Gun4.Ders3.Main">
     <configuration name="Gun3.Ders4GenericMetods.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gun3.Ders4GenericMetods.Main" />
       <module name="java102" />
@@ -121,6 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Gun4.Ders3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun4.Ders3.Main" />
+      <module name="java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun4.Ders3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gun3.Ders3GenericClasses.Main" />
       <module name="java102" />
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gun4.Ders3.Main" />
         <item itemvalue="Application.Gun3.Ders6GenericBoundedTypes.Main" />
         <item itemvalue="Application.Gun3.Ders5GenericInterface.Main" />
         <item itemvalue="Application.Gun3.Ders4GenericMetods.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BoxingAndUnBoxinx" />
       </list>
     </recent_temporary>
   </component>

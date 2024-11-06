@@ -1,4 +1,4 @@
-package Gun4.Ders3;
+package Gun4.Ders3Practice;
 
 public class Main {
     public static void main(String[] args) {

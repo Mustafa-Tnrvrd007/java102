@@ -1,4 +1,4 @@
-package Gun4.Ders3;
+package Gun4.Ders3Practice;
 
 public class AccountManager <T extends Number>{
     private double balance ; // hesaptaki para miktarı , bakiye

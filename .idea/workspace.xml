@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders1TryCatch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders2Throw/CheckPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders2Throw/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders3/AccountManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders3/BalanceInsufficentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun4/Ders3/NegativeValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders1Set/HashSetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders1Set/IterratorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders1Set/LinkedHashSetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders1Set/TreeSetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders2List/ArrayListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders2List/LinkedListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders3Queue/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders3Queue/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders4Map/HashMapClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders4Map/LinkedHashMapClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders4Map/TreeMapClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun4/Ders3/AccountManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun4/Ders3Practice/AccountManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun4/Ders3/BalanceInsufficentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun4/Ders3Practice/BalanceInsufficentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun4/Ders3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun4/Ders3Practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun4/Ders3/NegativeValueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun4/Ders3Practice/NegativeValueException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayListClass.executor": "Debug",
     "Application.BoxingAndUnBoxinx.executor": "Debug",
     "Application.Gun1.Ders1Packages.Main.Main.executor": "Run",
     "Application.Gun1.Ders2AccessModifiers.Paket2.Main.executor": "Debug",
@@ -57,9 +66,18 @@
     "Application.Gun3.Ders5GenericInterface.Main.executor": "Debug",
     "Application.Gun3.Ders6GenericBoundedTypes.Main.executor": "Debug",
     "Application.Gun4.Ders3.Main.executor": "Run",
+    "Application.HashMapClass.executor": "Debug",
+    "Application.HashSetClass.executor": "Debug",
+    "Application.IterratorClass.executor": "Debug",
+    "Application.LinkedHashMapClass.executor": "Debug",
+    "Application.LinkedHashSetClass.executor": "Debug",
+    "Application.LinkedListClass.executor": "Debug",
     "Application.Main.executor": "Debug",
     "Application.Overloading.executor": "Debug",
+    "Application.Priority.executor": "Debug",
     "Application.StaticDeneme.executor": "Debug",
+    "Application.TreeMapClass.executor": "Debug",
+    "Application.TreeSetClass.executor": "Run",
     "Application.WrapperClasses.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -68,13 +86,13 @@
     "onboarding.tips.debug.path": "C:/javademos/java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Gun4.Ders3.Main">
-    <configuration name="Gun3.Ders4GenericMetods.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun3.Ders4GenericMetods.Main" />
+  <component name="RunManager" selected="Application.TreeMapClass">
+    <configuration name="HashMapClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun5.Ders4Map.HashMapClass" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun3.Ders4GenericMetods.*" />
+          <option name="PATTERN" value="Gun5.Ders4Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gun3.Ders5GenericInterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun3.Ders5GenericInterface.Main" />
+    <configuration name="LinkedHashMapClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun5.Ders4Map.LinkedHashMapClass" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun3.Ders5GenericInterface.*" />
+          <option name="PATTERN" value="Gun5.Ders4Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gun3.Ders6GenericBoundedTypes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun3.Ders6GenericBoundedTypes.Main" />
+    <configuration name="LinkedListClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun5.Ders2List.LinkedListClass" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun3.Ders6GenericBoundedTypes.*" />
+          <option name="PATTERN" value="Gun5.Ders2List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gun4.Ders3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun4.Ders3.Main" />
+    <configuration name="Priority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun5.Ders3Queue.Priority" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun4.Ders3.*" />
+          <option name="PATTERN" value="Gun5.Ders3Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun3.Ders3GenericClasses.Main" />
+    <configuration name="TreeMapClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun5.Ders4Map.TreeMapClass" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun3.Ders3GenericClasses.*" />
+          <option name="PATTERN" value="Gun5.Ders4Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Gun4.Ders3.Main" />
-        <item itemvalue="Application.Gun3.Ders6GenericBoundedTypes.Main" />
-        <item itemvalue="Application.Gun3.Ders5GenericInterface.Main" />
-        <item itemvalue="Application.Gun3.Ders4GenericMetods.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TreeMapClass" />
+        <item itemvalue="Application.LinkedHashMapClass" />
+        <item itemvalue="Application.HashMapClass" />
+        <item itemvalue="Application.Priority" />
+        <item itemvalue="Application.LinkedListClass" />
       </list>
     </recent_temporary>
   </component>

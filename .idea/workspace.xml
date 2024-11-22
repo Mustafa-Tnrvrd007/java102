@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders5Practice/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders5Practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders5Practice/SayfaSirasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Clup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Fikstur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders7Practice3/Clup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders7Practice3/Fikstur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders7Practice3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders8Practice4/Clup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders8Practice4/Eslesme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders8Practice4/Fikstur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders8Practice4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +62,9 @@
     "Application.Gun3.Ders5GenericInterface.Main.executor": "Debug",
     "Application.Gun3.Ders6GenericBoundedTypes.Main.executor": "Debug",
     "Application.Gun4.Ders3.Main.executor": "Run",
+    "Application.Gun5.Ders6Practice2.Main.executor": "Debug",
+    "Application.Gun5.Ders7Practice3.Main.executor": "Debug",
+    "Application.Gun5.Ders8Practice4.Main.executor": "Debug",
     "Application.HashMapClass.executor": "Debug",
     "Application.HashSetClass.executor": "Debug",
     "Application.IterratorClass.executor": "Debug",
@@ -74,13 +85,18 @@
     "onboarding.tips.debug.path": "C:/javademos/java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="HashMapClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun5.Ders4Map.HashMapClass" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Gun5.Ders7Practice3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Gun5.Ders8Practice4.Main">
+    <configuration name="Gun5.Ders6Practice2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun5.Ders6Practice2.Main" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun5.Ders4Map.*" />
+          <option name="PATTERN" value="Gun5.Ders6Practice2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMapClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun5.Ders4Map.LinkedHashMapClass" />
+    <configuration name="Gun5.Ders7Practice3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun5.Ders7Practice3.Main" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun5.Ders4Map.*" />
+          <option name="PATTERN" value="Gun5.Ders7Practice3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gun5.Ders8Practice4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun5.Ders8Practice4.Main" />
+      <module name="java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun5.Ders8Practice4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,19 +136,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Gun5.Ders5Practice1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Priority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun5.Ders3Queue.Priority" />
-      <module name="java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gun5.Ders3Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gun5.Ders8Practice4.Main" />
+        <item itemvalue="Application.Gun5.Ders7Practice3.Main" />
+        <item itemvalue="Application.Gun5.Ders6Practice2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TreeMapClass" />
-        <item itemvalue="Application.LinkedHashMapClass" />
-        <item itemvalue="Application.HashMapClass" />
-        <item itemvalue="Application.Priority" />
       </list>
     </recent_temporary>
   </component>
@@ -160,5 +176,20 @@
       <updated>1730054615525</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java102$Gun5_Ders7Practice3_Main.ic" NAME="Gun5.Ders7Practice3.Main Coverage Results" MODIFIED="1732199364916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Gun5.Ders7Practice3.*</FILTER>
+    </SUITE>
   </component>
 </project>

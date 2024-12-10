@@ -5,18 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a71d49b-139e-4554-9f56-5f9397fac151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Clup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Fikstur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Round.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders7Practice3/Clup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders7Practice3/Fikstur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders7Practice3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders8Practice4/Clup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders8Practice4/Eslesme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders8Practice4/Fikstur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gun5/Ders8Practice4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders1FileClass/FileClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders1FileClass/YeniKlasor/Ornek2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders1FileClass/YeniKlasor/ornek1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders1FileClass/YeniKlasor/ornekWeb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders2/FileInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders3/FileOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders4/ByteArrayInputStreamClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders4/ByteArrayOutputStreamClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders7/InputStreamReaderFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders7/OutputStreamWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders7/PrintStreamClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders7/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders8/BufferedreadAndWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders8/FileReaderAndFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gun6/Ders8/PrintWriterClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Clup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun5/Ders6Practice2/Clup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +56,13 @@
   "keyToString": {
     "Application.ArrayListClass.executor": "Debug",
     "Application.BoxingAndUnBoxinx.executor": "Debug",
+    "Application.BufferedreadAndWrite.executor": "Debug",
+    "Application.ByteArrayInputStreamClass.executor": "Debug",
+    "Application.ByteArrayOutputStreamClass.executor": "Debug",
+    "Application.FileClass.executor": "Debug",
+    "Application.FileInputStreamExample.executor": "Debug",
+    "Application.FileOutputStreamExample.executor": "Debug",
+    "Application.FileReaderAndFileWriter.executor": "Debug",
     "Application.Gun1.Ders1Packages.Main.Main.executor": "Run",
     "Application.Gun1.Ders2AccessModifiers.Paket2.Main.executor": "Debug",
     "Application.Gun1.Ders3StaticKeyword.Main.executor": "Debug",
@@ -65,19 +81,23 @@
     "Application.Gun5.Ders6Practice2.Main.executor": "Debug",
     "Application.Gun5.Ders7Practice3.Main.executor": "Debug",
     "Application.Gun5.Ders8Practice4.Main.executor": "Debug",
+    "Application.Gun6.Ders6.Main.executor": "Debug",
     "Application.HashMapClass.executor": "Debug",
     "Application.HashSetClass.executor": "Debug",
+    "Application.InputStreamReaderFileExample.executor": "Debug",
     "Application.IterratorClass.executor": "Debug",
     "Application.LinkedHashMapClass.executor": "Debug",
     "Application.LinkedHashSetClass.executor": "Debug",
     "Application.LinkedListClass.executor": "Debug",
     "Application.Main.executor": "Debug",
+    "Application.OutputStreamWriterExample.executor": "Debug",
     "Application.Overloading.executor": "Debug",
     "Application.Priority.executor": "Debug",
     "Application.StaticDeneme.executor": "Debug",
     "Application.TreeMapClass.executor": "Debug",
     "Application.TreeSetClass.executor": "Run",
     "Application.WrapperClasses.executor": "Debug",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -86,17 +106,20 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javademos\java102\src\Gun6\Ders1FileClass" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Gun5.Ders7Practice3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Gun5.Ders8Practice4.Main">
-    <configuration name="Gun5.Ders6Practice2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun5.Ders6Practice2.Main" />
+  <component name="RunManager" selected="Application.PrintWriterClass">
+    <configuration name="BufferedreadAndWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun6.Ders8.BufferedreadAndWrite" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun5.Ders6Practice2.*" />
+          <option name="PATTERN" value="Gun6.Ders8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gun5.Ders7Practice3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun5.Ders7Practice3.Main" />
+    <configuration name="FileReaderAndFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun6.Ders8.FileReaderAndFileWriter" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun5.Ders7Practice3.*" />
+          <option name="PATTERN" value="Gun6.Ders8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gun5.Ders8Practice4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun5.Ders8Practice4.Main" />
+    <configuration name="InputStreamReaderFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun6.Ders7.InputStreamReaderFileExample" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun5.Ders8Practice4.*" />
+          <option name="PATTERN" value="Gun6.Ders7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun5.Ders5Practice1.Main" />
+    <configuration name="OutputStreamWriterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun6.Ders7.OutputStreamWriterExample" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun5.Ders5Practice1.*" />
+          <option name="PATTERN" value="Gun6.Ders7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMapClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gun5.Ders4Map.TreeMapClass" />
+    <configuration name="PrintWriterClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun6.Ders8.PrintWriterClass" />
       <module name="java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gun5.Ders4Map.*" />
+          <option name="PATTERN" value="Gun6.Ders8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Gun5.Ders8Practice4.Main" />
-        <item itemvalue="Application.Gun5.Ders7Practice3.Main" />
-        <item itemvalue="Application.Gun5.Ders6Practice2.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TreeMapClass" />
+        <item itemvalue="Application.PrintWriterClass" />
+        <item itemvalue="Application.BufferedreadAndWrite" />
+        <item itemvalue="Application.FileReaderAndFileWriter" />
+        <item itemvalue="Application.OutputStreamWriterExample" />
+        <item itemvalue="Application.InputStreamReaderFileExample" />
       </list>
     </recent_temporary>
   </component>

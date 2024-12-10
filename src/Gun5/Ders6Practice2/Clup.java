@@ -1,9 +1,10 @@
 package Gun5.Ders6Practice2;
 
 
-public class Clup implements Comparable<Gun5.Ders7Practice3.Clup>{
+public class Clup implements Comparable<Clup>{
+
     @Override
-    public int compareTo(Gun5.Ders7Practice3.Clup takim) {
+    public int compareTo(Clup takim) {
         return getName().compareTo( takim.getName() );
     }
 
